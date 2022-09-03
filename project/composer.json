@@ -1,0 +1,16 @@
+{
+    "name": "heisenberg/app",
+    "authors": [
+        {
+            "name": "TinMyo Win",
+            "email": "tinmyowin@utycc.edu.mm"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Libs\\": "_classes/Libs/",
+            "Helpers\\": "_classes/Helpers"
+        }
+    }
+}
